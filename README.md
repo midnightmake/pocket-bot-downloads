@@ -1,3 +1,3 @@
 # Pocket Bot Downloads
 Source code, STLs, and utilities for the Midnight Make Pocket Bot.
-## Coming Soon!
+## Coming Very Soon (like, in a day or two)!
