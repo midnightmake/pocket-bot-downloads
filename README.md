@@ -1,6 +1,6 @@
 # Pocket Bot Downloads
 
-This repository contains all the firmware, source files, courses, and STLs files you need to get started with the Pocket Bot.
+This repository contains all of the firmware, source files, courses, and STLs files you need to get started with the Pocket Bot.
 
 ## Contents
 
