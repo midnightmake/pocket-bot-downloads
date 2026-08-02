@@ -13,4 +13,4 @@ This directory contains the following files:
 * `wheel-for-motor.stl`: A single wheel meant to be snapped to the Pocket Bot motor axis. **For best results, print this part with TPU or another rubber-like material.**
 * `wheel-for-screw.stl`: A single wheel meant to be screwed onto the Pocket Bot to freely rotate. **For best results, print this part with TPU or another rubber-like material.**
 
-Assembly instructions can be found [here](https://www.midnightmake.com/pages/pocket-bot-assembly).
+Assembly instructions are available [here](https://www.midnightmake.com/pages/pocket-bot-assembly).
